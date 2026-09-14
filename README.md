@@ -61,4 +61,4 @@ Risk weighting distribution, loan breakdown by relationship type, investment adv
 - **Jupyter Notebook** — analysis environment
 - **Power BI Desktop** — dashboard & visualization
 
-## 📁 Repository Structure
+
